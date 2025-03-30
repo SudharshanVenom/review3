@@ -1,0 +1,13 @@
+C:\Users\asus\rest\demo\src\main\java\restapi\example\demo\Controller\RouteController.java
+C:\Users\asus\rest\demo\src\main\java\restapi\example\demo\Controller\UserController.java
+C:\Users\asus\rest\demo\src\main\java\restapi\example\demo\Controller\WasteBinController.java
+C:\Users\asus\rest\demo\src\main\java\restapi\example\demo\DemoApplication.java
+C:\Users\asus\rest\demo\src\main\java\restapi\example\demo\entities\Route.java
+C:\Users\asus\rest\demo\src\main\java\restapi\example\demo\entities\User.java
+C:\Users\asus\rest\demo\src\main\java\restapi\example\demo\entities\WasteBin.java
+C:\Users\asus\rest\demo\src\main\java\restapi\example\demo\repositories\RouteRepository.java
+C:\Users\asus\rest\demo\src\main\java\restapi\example\demo\repositories\UserRepository.java
+C:\Users\asus\rest\demo\src\main\java\restapi\example\demo\repositories\WasteBinRepository.java
+C:\Users\asus\rest\demo\src\main\java\restapi\example\demo\Service\RouteService.java
+C:\Users\asus\rest\demo\src\main\java\restapi\example\demo\Service\UserService.java
+C:\Users\asus\rest\demo\src\main\java\restapi\example\demo\Service\WasteBinService.java
